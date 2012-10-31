@@ -16,4 +16,5 @@ You can disable individual compression modes by adding following entries to conf
   `<add key="ContentCompressorModule.CompressCss" value="false"/>`            to disable compression of css files
   `<add key="ContentCompressorModule.CompressEmbeddedCss" value="false"/>`    to disable compression of embedded css (that is, content of <style type="text/css"></style>)
   `<add key="ContentCompressorModule.CompressEmbeddedJs" value="false"/>`     to disable compression of embedded js (content of <script type="text/javascript"></script>)
-Otherwise you don't need to touch config file - module will auto-register itself.
+
+  Otherwise you don't need to touch config file - module will auto-register itself.
