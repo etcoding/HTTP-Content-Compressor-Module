@@ -16,8 +16,6 @@ namespace UnitTests
     [TestClass()]
     public class CompressorStreamsTests
     {
-
-
         private TestContext testContextInstance;
 
         /// <summary>
